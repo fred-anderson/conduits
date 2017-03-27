@@ -1,0 +1,11 @@
+.idea
+CMakeCache.txt
+*.cmake
+Makefile
+build
+*cbp
+CMakeFiles
+Testing
+test_output.xml
+lib
+*.swp
